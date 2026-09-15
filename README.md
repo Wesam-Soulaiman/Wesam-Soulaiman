@@ -19,7 +19,7 @@
 
 **Information Technology Engineering** at Damascus University (2020–2026), specialising in Software Engineering and Information Systems — and a full-stack developer at **90soft**.
 
-I work across the stack, but the work I care about sits underneath the screen: a compiler carried through to code generation, an information-retrieval engine, an ERP written as real Odoo modules, and a GTFS-compliant transit platform for Damascus that is being prepared for a public launch.
+I work across the stack, but the work I care about sits underneath the screen: a compiler carried through to code generation, a hybrid search engine over more than 740,000 documents, a three-node Raft cluster, an ERP written as real Odoo modules, and a GTFS-compliant transit platform for Damascus that is being prepared for a public launch.
 
 </td>
 </tr>
@@ -61,14 +61,14 @@ Indexed by what it demonstrates, not by what the repository is called.
 
 | Domain | Project | What it is |
 | :--- | :--- | :--- |
-| **Compilers** | [**Angular-Compiler-Code-Generation**](https://github.com/Wesam-Soulaiman/Angular-Compiler-Code-Generation)<br><sub>Java</sub> | A compiler carried past parsing into a working code-generation stage. Most people stop at the parser. |
-| **Information retrieval** | [**ir-search-engine**](https://github.com/Wesam-Soulaiman/ir-search-engine)<br><sub>Python</sub> | An information-retrieval search engine — the indexing and ranking side of search, rather than a wrapper over someone else's. |
+| **Compilers** | [**Angular-Compiler-Code-Generation**](https://github.com/Wesam-Soulaiman/Angular-Compiler-Code-Generation)<br><sub>Java</sub> | A compiler for Angular templates and CSS: ANTLR lexer and parser, a visitor that builds a typed AST, a symbol table with semantic error checks, and a code generator that emits runnable HTML, CSS and JavaScript. |
+| **Information retrieval** | [**ir-search-engine**](https://github.com/Wesam-Soulaiman/ir-search-engine)<br><sub>Python · Django REST · React</sub> | A search engine over 500,000+ Quora and 240,000+ clinical-trial documents: TF-IDF, BM25 and dense retrieval (Sentence Transformers + FAISS), hybrid ranking with reciprocal rank fusion, sharded BM25, learning-to-rank reranking — measured with MAP, nDCG@10, Precision@10 and Recall. |
 | **ERP / Odoo** | [**smart-hospital-odoo**](https://github.com/Wesam-Soulaiman/smart-hospital-odoo)<br><sub>Python · Odoo 17 · Docker</sub> | A Smart Mobile Hospital ERP as custom Odoo modules — Python logic, XML and QWeb views and reports — covering emergency triage, IoT monitoring, fleet, inventory, procurement and recruitment. Odoo is self-taught. |
-| **Distributed systems & security** | [**secure-distributed-system**](https://github.com/Wesam-Soulaiman/secure-distributed-system)<br><sub>JavaScript</sub> | A secure distributed system: the problems that only appear once state and trust are spread across machines. |
+| **Distributed systems & security** | [**secure-distributed-system**](https://github.com/Wesam-Soulaiman/secure-distributed-system)<br><sub>Node.js · React · Nginx · Docker</sub> | A three-node Raft cluster — leader election, log replication, majority commits, failover — behind a custom load balancer (weighted round robin, consistent hashing), circuit breakers with exponential-backoff retry, and an Nginx gateway with a WAF and rate limiting. A dashboard lets you fail the leader and watch the election. |
 | **AI & search algorithms** | [**Stacked-Game**](https://github.com/Wesam-Soulaiman/Stacked-Game) · [**Ludo-Game**](https://github.com/Wesam-Soulaiman/Ludo-Game)<br><sub>Java</sub> | A Swing puzzle game set against BFS, DFS, UCS, Hill Climbing and A\*, so the trade-offs between them stop being theoretical — and a console Ludo whose bots plan under dice uncertainty with Expectiminimax. |
-| **Design patterns & OOD** | [**advanced-banking-system**](https://github.com/Wesam-Soulaiman/advanced-banking-system)<br><sub>Java</sub> | A banking system built around design patterns — a domain with enough rules to make them earn their place. |
+| **Design patterns & OOD** | [**advanced-banking-system**](https://github.com/Wesam-Soulaiman/advanced-banking-system)<br><sub>Java · Spring Boot · PostgreSQL</sub> | A layered Spring Boot banking API (Spring Security + JWT, JPA, WebSockets) whose domain is built from design patterns: State for the account lifecycle, Strategy for interest, Decorator for overdraft and premium features, Composite for account groups, Chain of Responsibility for the transaction pipeline, Observer for domain events, plus Adapter and Facade. |
 | **Full-stack products** | [**Spotify-Full-Stack**](https://github.com/Wesam-Soulaiman/Spotify-Full-Stack) · [**Chat**](https://github.com/Wesam-Soulaiman/Chat)<br><sub>React · Vite · Node · MongoDB</sub> | Music streaming with a listener client, an admin dashboard for the catalogue and a Cloudinary media pipeline — and real-time messaging on Socket.IO with JWT auth and a multilingual UI. |
-| **Angular + Parse Server** | [**candidate-tracker**](https://github.com/Wesam-Soulaiman/candidate-tracker)<br><sub>TypeScript</sub> | My first Angular and Parse Server project — the groundwork for what I build at 90soft now. |
+| **Angular + Parse Server** | [**candidate-tracker**](https://github.com/Wesam-Soulaiman/candidate-tracker)<br><sub>TypeScript</sub> | A candidate tracker on Angular and Parse Server — my first project on the stack I now use to build Code Your Future. |
 
 <details>
 <summary><b>Four more repositories on this profile</b></summary>
@@ -77,8 +77,8 @@ Indexed by what it demonstrates, not by what the repository is called.
 
 | Repository | Language |
 | :--- | :--- |
-| [Angular-Compiler](https://github.com/Wesam-Soulaiman/Angular-Compiler) — the earlier stage of the compiler above | Java |
-| [MERN-auth](https://github.com/Wesam-Soulaiman/MERN-auth) — authentication on the MERN stack | JavaScript |
+| [Angular-Compiler](https://github.com/Wesam-Soulaiman/Angular-Compiler) — the same compiler before its code-generation stage | Java |
+| [MERN-auth](https://github.com/Wesam-Soulaiman/MERN-auth) — MERN authentication: email verification, password reset, bcrypt, JWT in httpOnly cookies | JavaScript |
 | [Cars-Front-Dashboard](https://github.com/Wesam-Soulaiman/Cars-Front-Dashboard) | JavaScript |
 | [Cars-Front-Website](https://github.com/Wesam-Soulaiman/Cars-Front-Website) | HTML |
 
