@@ -1,125 +1,151 @@
-<div align="center">
+# Wesam Osama Soulaiman
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=180&section=header&text=Wesam%20Soulaiman&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=52" width="100%" alt="Wesam Soulaiman" />
+**Software Engineer · Full-Stack Developer** — Damascus, Syria
 
-<a href="https://wesam-soulaiman.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-wesam--soulaiman.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:wesamsoulaiman@gmail.com">
-  <img src="https://img.shields.io/badge/Email-wesamsoulaiman@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/wesam-soulaiman">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://wesam-soulaiman.github.io/"><img alt="Portfolio: wesam-soulaiman.github.io" src="https://img.shields.io/badge/Portfolio-wesam--soulaiman.github.io-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wesam-soulaiman/"><img alt="LinkedIn: wesam-soulaiman" src="https://img.shields.io/badge/LinkedIn-wesam--soulaiman-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="></a>
+<a href="mailto:wesamsoulaiman@gmail.com"><img alt="Email: wesamsoulaiman@gmail.com" src="https://img.shields.io/badge/Email-wesamsoulaiman%40gmail.com-C14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<br/>
+<table>
+<tr>
+<td align="center" valign="top" width="190">
+<img src="https://github.com/Wesam-Soulaiman.png?size=400" width="160" alt="Wesam Osama Soulaiman">
+<br><br>
+<sub><b>Al-Abasien, Damascus, Syria</b></sub><br>
+<sub>Arabic — native</sub><br>
+<sub>English — fluent</sub>
+</td>
+<td valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Information+Technology+Engineer;Full-Stack+Developer;Compilers+%E2%80%A2+ERP+%E2%80%A2+Distributed+Systems;Building+systems+end+to+end" alt="Typing SVG" />
+**Information Technology Engineering** at Damascus University (2020–2026), specialising in Software Engineering and Information Systems — and a full-stack developer at **90soft**.
 
-</div>
+I work across the stack, but the work I care about sits underneath the screen: a compiler carried through to code generation, an information-retrieval engine, an ERP written as real Odoo modules, and a GTFS-compliant transit platform for Damascus that is being prepared for a public launch.
+
+</td>
+</tr>
+</table>
+
+> [!TIP]
+> The fastest way to judge the work is to look at it — **[wesam-soulaiman.github.io](https://wesam-soulaiman.github.io/)**, live right now.
 
 ---
 
-### About
+## Now
 
-Information Technology Engineering graduate from **Damascus University**, specialised in Software Engineering and Information Systems, currently a freelance software engineer at **90soft**.
+**90soft — Full-Stack Developer, and Software Engineer & Technical Recruiter.** <sub>2026 — present</sub>
 
-I build systems end to end — requirements analysis, relational and document data modelling, REST API design, ERP customisation and system integration, then the frontend that sits on top of it. Framework- and domain-agnostic by training, I adapt quickly to whichever area a role requires.
+Two roles, on purpose. I build **Code Your Future**, a platform that evaluates candidates on real tasks instead of CV keywords: Angular on the front, Parse Server behind it — cloud functions, data classes, queries, authentication, role-based permissions. Then I go and do the hiring myself: scoping roles with team leads, writing the job descriptions, technically screening engineers, running interview loops through offer and onboarding. Writing the tool and using the tool in the same week is a very short feedback loop, and the product is better for it.
 
-```yaml
-name:      Wesam Osama Soulaiman
-role:      Software Engineer · Full-Stack Developer
-location:  Damascus, Syria
-education: B.Eng Information Technology — Damascus University (2020–2026)
-           B.Sc Management (HR) — Syrian Virtual University (2024–present)
-focus:     [ Backend & APIs, ERP / Odoo, Compilers, Distributed Systems ]
-languages: [ Arabic (native), English (fluent) ]
-open_to:   IT Engineer & Software Engineer roles
+**Darb — Public Transit Information System.** <sub>with Zajil Transport Company · 2024 — present</sub>
+
+My graduation project: a GTFS / GTFS-RT compliant transit information system for Damascus — routes, schedules, stops, trip monitoring and real-time vehicle tracking, now being prepared for a public launch. I built the operator-facing side, and integrated every one of those screens with the backend APIs.
+
+```mermaid
+flowchart LR
+  A["GTFS static<br/>routes · stops · schedules"] --> C["Backend APIs"]
+  B["GTFS-RT<br/>vehicle positions · trip updates"] --> C
+  C --> D["Operator console<br/>the side I built"]
+  D --> E["Network management<br/>routes · stops · timetables"]
+  D --> F["Live map<br/>real-time vehicle tracking"]
+  D --> G["Trip monitoring<br/>dashboards · data tables"]
 ```
 
----
-
-### Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-41b883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007fff?style=flat-square&logo=mui&logoColor=white)
-
-**Backend & Real-time**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092e20?style=flat-square&logo=django&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-d63aff?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Databases & Platforms**
-
-![Oracle](https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_17-714b67?style=flat-square&logo=odoo&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+> [!NOTE]
+> Darb has no public repository — it is launching with its partner company. The diagram is the shape of it; I am happy to walk through the operator screens in an interview.
 
 ---
 
-### Featured Work
+## Selected work
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Advanced Banking System](https://github.com/Wesam-Soulaiman/advanced-banking-system)** | Banking domain modelled through classic design patterns rather than ad-hoc code | `Java` `OOP` `Design Patterns` |
-| **[Angular Compiler — Code Generation](https://github.com/Wesam-Soulaiman/Angular-Compiler-Code-Generation)** | Lexer, parser, AST, semantic checks and a code-generation stage | `Java` `ANTLR` `AST` |
-| **[IR Search Engine](https://github.com/Wesam-Soulaiman/ir-search-engine)** | Inverted index, TF-IDF ranking and evaluation over a document corpus | `Python` `TF-IDF` `NLP` |
-| **[Secure Distributed System](https://github.com/Wesam-Soulaiman/secure-distributed-system)** | Authenticated node communication and protected data in transit | `Node.js` `Cryptography` |
-| **[MERN Authentication](https://github.com/Wesam-Soulaiman/MERN-auth)** | Full auth flow — hashed credentials, JWT sessions, protected routes | `MongoDB` `Express` `React` `Node` |
-| **[Smart Hospital ERP](https://github.com/Wesam-Soulaiman/smart-hospital-odoo)** | Odoo 17 custom modules: triage, IoT monitoring, fleet, inventory | `Odoo 17` `Python` `Docker` |
+Indexed by what it demonstrates, not by what the repository is called.
 
-> **Darb — Public Transit Information System** (graduation project, with Zajil Transport Company): a GTFS / GTFS-RT compliant transit system for Damascus — routes, schedules, stops, trip monitoring and real-time vehicle tracking. Currently being prepared for a live public launch.
+| Domain | Project | What it is |
+| :--- | :--- | :--- |
+| **Compilers** | [**Angular-Compiler-Code-Generation**](https://github.com/Wesam-Soulaiman/Angular-Compiler-Code-Generation)<br><sub>Java</sub> | A compiler carried past parsing into a working code-generation stage. Most people stop at the parser. |
+| **Information retrieval** | [**ir-search-engine**](https://github.com/Wesam-Soulaiman/ir-search-engine)<br><sub>Python</sub> | An information-retrieval search engine — the indexing and ranking side of search, rather than a wrapper over someone else's. |
+| **ERP / Odoo** | [**smart-hospital-odoo**](https://github.com/Wesam-Soulaiman/smart-hospital-odoo)<br><sub>Python · Odoo 17 · Docker</sub> | A Smart Mobile Hospital ERP as custom Odoo modules — Python logic, XML and QWeb views and reports — covering emergency triage, IoT monitoring, fleet, inventory, procurement and recruitment. Odoo is self-taught. |
+| **Distributed systems & security** | [**secure-distributed-system**](https://github.com/Wesam-Soulaiman/secure-distributed-system)<br><sub>JavaScript</sub> | A secure distributed system: the problems that only appear once state and trust are spread across machines. |
+| **AI & search algorithms** | [**Stacked-Game**](https://github.com/Wesam-Soulaiman/Stacked-Game) · [**Ludo-Game**](https://github.com/Wesam-Soulaiman/Ludo-Game)<br><sub>Java</sub> | A Swing puzzle game set against BFS, DFS, UCS, Hill Climbing and A\*, so the trade-offs between them stop being theoretical — and a console Ludo whose bots plan under dice uncertainty with Expectiminimax. |
+| **Design patterns & OOD** | [**advanced-banking-system**](https://github.com/Wesam-Soulaiman/advanced-banking-system)<br><sub>Java</sub> | A banking system built around design patterns — a domain with enough rules to make them earn their place. |
+| **Full-stack products** | [**Spotify-Full-Stack**](https://github.com/Wesam-Soulaiman/Spotify-Full-Stack) · [**Chat**](https://github.com/Wesam-Soulaiman/Chat)<br><sub>React · Vite · Node · MongoDB</sub> | Music streaming with a listener client, an admin dashboard for the catalogue and a Cloudinary media pipeline — and real-time messaging on Socket.IO with JWT auth and a multilingual UI. |
+| **Angular + Parse Server** | [**candidate-tracker**](https://github.com/Wesam-Soulaiman/candidate-tracker)<br><sub>TypeScript</sub> | My first Angular and Parse Server project — the groundwork for what I build at 90soft now. |
+
+<details>
+<summary><b>Four more repositories on this profile</b></summary>
+
+<br>
+
+| Repository | Language |
+| :--- | :--- |
+| [Angular-Compiler](https://github.com/Wesam-Soulaiman/Angular-Compiler) — the earlier stage of the compiler above | Java |
+| [MERN-auth](https://github.com/Wesam-Soulaiman/MERN-auth) — authentication on the MERN stack | JavaScript |
+| [Cars-Front-Dashboard](https://github.com/Wesam-Soulaiman/Cars-Front-Dashboard) | JavaScript |
+| [Cars-Front-Website](https://github.com/Wesam-Soulaiman/Cars-Front-Website) | HTML |
+
+</details>
 
 ---
 
-### GitHub Stats
+## Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wesam-Soulaiman&show_icons=true&hide_border=true&bg_color=0b0f1e&title_color=8b5cf6&icon_color=06b6d4&text_color=a8b0c6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesam-Soulaiman&layout=compact&hide_border=true&bg_color=0b0f1e&title_color=8b5cf6&text_color=a8b0c6&langs_count=8" alt="Top languages" />
+<b>Frontend</b>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,react,vue,ts,js,tailwind,materialui,vite&theme=dark">
+  <img alt="Angular, React, Vue, TypeScript, JavaScript, Tailwind CSS, Material UI, Vite" src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,tailwind,materialui,vite&theme=light" height="46">
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesam-Soulaiman&hide_border=true&background=0b0f1e&stroke=1f2937&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6&sideLabels=a8b0c6&dates=6f7893" alt="Streak" />
+<b>Backend and data</b>
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,python,java,postgres,mysql,mongodb&theme=dark">
+  <img alt="Node.js, Express, Django, Python, Java, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,postgres,mysql,mongodb&theme=light" height="46">
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wesam-Soulaiman&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<b>Platform</b>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,git&theme=dark">
+  <img alt="Docker, Linux, Git" src="https://skillicons.dev/icons?i=docker,linux,git&theme=light" height="46">
+</picture>
 
 </div>
+
+| Layer | What I work with |
+| :--- | :--- |
+| **Software engineering** | Requirements analysis · object-oriented design · data structures and algorithms · relational and document data modelling · REST API design · system integration |
+| **Frontend** | React · Angular · Vue · Vite · Tailwind CSS · Material UI · responsive component-based interfaces · state management · Arabic RTL support |
+| **Backend** | Node.js · Express.js · Django REST Framework · Parse Server · REST APIs · authentication and role-based permissions · WebSockets and real-time |
+| **Databases** | Oracle · PostgreSQL · MySQL · MongoDB |
+| **ERP / Odoo** | Custom Python modules · XML and QWeb views and reports · module configuration — self-taught through a training project |
+| **Platforms and tools** | Linux servers and application deployment · Git · Docker |
 
 ---
 
+## Background
+
+**Damascus University** — B.Eng, Information Technology Engineering, 2020–2026. Specialised in Software Engineering and Information Systems.
+
+**Syrian Virtual University** — B.Sc, Management, 2024–present. Specialised in Human Resources.
+
+**Freelancer — Frontend Developer, 2023.** React.js with Material UI and Tailwind CSS: maintained and improved existing applications, and delivered frontend and full-stack features for clients.
+
+The management degree is not a detour. Half of my job is judging engineers and building the thing that judges engineers, and doing that honestly turns out to be its own discipline.
+
+---
+
+## Contact
+
+**Open to software engineering roles** — full-stack, backend or frontend.
+
 <div align="center">
 
-**Open to IT Engineer and Software Engineer roles.**
-
-[![Portfolio](https://img.shields.io/badge/See_the_full_portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wesam-soulaiman.github.io/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=110&section=footer" width="100%" alt="" />
+<a href="https://wesam-soulaiman.github.io/"><img alt="Open the portfolio: wesam-soulaiman.github.io" src="https://img.shields.io/badge/Start_here-wesam--soulaiman.github.io-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
 </div>
+
+**[Portfolio](https://wesam-soulaiman.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/wesam-soulaiman/)** · **[wesamsoulaiman@gmail.com](mailto:wesamsoulaiman@gmail.com)** · **[+963 952 367 001](tel:+963952367001)** · Al-Abasien, Damascus, Syria
+
+<sub>Email is the fastest way to reach me — I answer in Arabic or English.</sub>
