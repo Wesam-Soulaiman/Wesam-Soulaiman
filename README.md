@@ -1,29 +1,16 @@
-# Wesam Osama Soulaiman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=180&section=header&text=Wesam%20Soulaiman&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=52" width="100%" alt="Wesam Soulaiman — Software Engineer | Full-Stack Developer" />
 
-**Software Engineer · Full-Stack Developer** — Damascus, Syria
-
+<p align="center">
 <a href="https://wesam-soulaiman.github.io/"><img alt="Portfolio: wesam-soulaiman.github.io" src="https://img.shields.io/badge/Portfolio-wesam--soulaiman.github.io-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wesam-soulaiman/"><img alt="LinkedIn: wesam-soulaiman" src="https://img.shields.io/badge/LinkedIn-wesam--soulaiman-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="></a>
 <a href="mailto:wesamsoulaiman@gmail.com"><img alt="Email: wesamsoulaiman@gmail.com" src="https://img.shields.io/badge/Email-wesamsoulaiman%40gmail.com-C14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<table>
-<tr>
-<td align="center" valign="top" width="190">
-<img src="https://github.com/Wesam-Soulaiman.png?size=400" width="160" alt="Wesam Osama Soulaiman">
-<br><br>
-<sub><b>Al-Abasien, Damascus, Syria</b></sub><br>
-<sub>Arabic — native</sub><br>
-<sub>English — fluent</sub>
-</td>
-<td valign="top">
+</p>
 
 **Information Technology Engineering** at Damascus University (2020–2026), specialising in Software Engineering and Information Systems — and a full-stack developer at **90soft**.
 
 I work across the stack, but the work I care about sits underneath the screen: a compiler carried through to code generation, a hybrid search engine over more than 740,000 documents, a three-node Raft cluster, an ERP written as real Odoo modules, and a GTFS-compliant transit platform for Damascus that is being prepared for a public launch.
 
-</td>
-</tr>
-</table>
+<sub>Al-Abasien, Damascus, Syria · Arabic — native · English — fluent</sub>
 
 > [!TIP]
 > The fastest way to judge the work is to look at it — **[wesam-soulaiman.github.io](https://wesam-soulaiman.github.io/)**, live right now.
@@ -149,3 +136,5 @@ The management degree is not a detour. Half of my job is judging engineers and b
 **[Portfolio](https://wesam-soulaiman.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/wesam-soulaiman/)** · **[wesamsoulaiman@gmail.com](mailto:wesamsoulaiman@gmail.com)** · **[+963 952 367 001](tel:+963952367001)** · Al-Abasien, Damascus, Syria
 
 <sub>Email is the fastest way to reach me — I answer in Arabic or English.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=110&section=footer" width="100%" alt="" />
